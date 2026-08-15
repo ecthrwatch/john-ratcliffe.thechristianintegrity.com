@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://john-ratcliffe.thechristianintegrity.com/sitemap-index.xml
